@@ -3,26 +3,26 @@
         "id": 1,
         "name":" Monster Fitness shirt",
         "price": 200,
-        "image": "my images/shirt1.jpeg"
+        "image": "shirt1.jpeg"
     },
     
     {
         "id": 2,
         "name":" LD03 LOUNGE CHAIR",
         "price": 290,
-        "image": "my images/shirt3.jpeg"
+        "image": "shirt3.jpeg"
     },
     {
         "id": 3,
         "name":" LD04 LOUNGE CHAIR",
         "price": 200,
-        "image": "my images/shirts.jpeg"
+        "image": "shirts.jpeg"
     },
     {
         "id": 4,
         "name":" LD05 LOUNGE CHAIR",
         "price": 300,
-        "image": "my images/shirts4.jpeg"
+        "image": "shirts4.jpeg"
     }
 
     
